@@ -20,7 +20,7 @@
     "test": "jest --clearCache && jest --coverage"
   },
   "dependencies": {
-    "@actions/cache": "actions/cache#d29c1df198dd38ac88e0ae23a2881b99c2d20e68",
+    "@actions/cache": "actions/cache#9c77c9dbfc97cd17e1add865174d4622362960f2",
     "@actions/core": "1.2.4",
     "@actions/exec": "1.0.4",
     "@actions/glob": "0.1.0",
